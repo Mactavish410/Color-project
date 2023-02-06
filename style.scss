@@ -29,3 +29,20 @@ body {
     background: rgba(0,0,0,0.1);
     cursor: pointer;
 }
+
+.col button {
+    outline: none;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background: transparent;
+    font-size: 1.5rem;
+    color: #fff;
+    background-repeat: 10px;
+    transition: background 0.3s;
+}
+
+.col button:hover {
+    background: rgba(0,0,0,0.1);
+    cursor: pointer;
+}
